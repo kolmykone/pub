@@ -1,7 +1,6 @@
 zero
-
 commit 1
-
 branch - two commit 1
-
 branch - master rebase
+
+branch three - commit 1
