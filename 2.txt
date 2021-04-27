@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+commit 1
+commit 2
+>>>>>>> 7727b30 (commit 3)
