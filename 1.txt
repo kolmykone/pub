@@ -1,8 +1,9 @@
 zero
 commit 1
-branch - two commit 1
-branch - master rebase
+branch two - commit 1
+branch master - rebase
 
 branch three - commit 1
 commit 2
 
+branch master - commit 1 rebase three
